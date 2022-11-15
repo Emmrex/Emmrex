@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C++ language**
 
-- 🤝 I’m looking for help with **A good laptop to work with.**
+- 🤝 I’m looking for help with ** C++ Books in Pdf to Read.**
 
 - 💬 Ask me about **Graphics Designs, photography and Desktop Publishing.**
 

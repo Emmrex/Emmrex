@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmrex&label=Profile%20views&color=0e75b6&style=flat" alt="emmrex" /> </p>
 
-- 🌱 I’m currently learning **C++ language**
+- 🌱 I’m currently learning **Python language**
 
-- 🤝 I’m looking for help with ** C++ Books in Pdf to Read.**
+- 🤝 I’m looking for help with ** Python Books in Pdf to Read and.**
 
-- 💬 Ask me about **Graphics Designs, photography and Desktop Publishing.**
+- 💬 Ask me about **Graphics Designs, Photography and Cartonated and Anime Drawing.**
 
 - 📫 How to reach me **essienbright422@gmail.com**
 
